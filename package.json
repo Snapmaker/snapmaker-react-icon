@@ -1,6 +1,6 @@
 {
   "name": "snapmaker-react-icon",
-  "version": "1.19.5",
+  "version": "1.19.6",
   "description": "Icon automation workflow with Figma",
   "main": "dist/index.js",
   "module": "build/index.js",
